@@ -224,7 +224,7 @@
 
     p {
         font-size: 1.1em;
-        margin: .5em 0 .5em 0;
+        margin: 1em 0 1em 0;
     }
 
     .post-copyright {
@@ -233,7 +233,9 @@
         border-bottom: 1px solid $light-border-color;
 
         .copyright-item {
-            margin: 5px 0;
+            font-size: .85rem;
+            line-height: 1rem;
+            margin: .5rem 0;
         }
 
         .lincese {
